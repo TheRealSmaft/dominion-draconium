@@ -1,5 +1,4 @@
 # Dominion Draconium
-Draconium Rules
 
 ## Eggs, Drakes, and Dragons
 Draconium has Dragons. Each Dragon has a respective Egg and Drake. Each of these types represents a lifecycle stage of a Dragon. They begin as Eggs, hatch into Drakes, and then grow into Dragons. Eggs, Drakes, and Dragons are not normal cards and cannot be gained or bought in any way. The means by which to acquire these cards is described below.
