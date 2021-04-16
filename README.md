@@ -54,50 +54,60 @@ The Recycling mat works like the Trash mat, except that when any Supply pile bec
 * A player buys the last Province. There are 2 Provinces in recycling. They are both returned to the Supply before the player's turn ends, therefore the game does not end.
 * A player in a 3 player game has 2 unspent actions and two Witches. There is one Curse left in the Supply and 4 Curses in recycling. The first Witch is played and the single Curse in the Supply is dealt to only one other player. After the current player draws the 2 cards to resolve the first Witch, the 4 Curses in recycling are returned to the Supply. When the player plays the second Witch, both other players receive Curses.
 
-# Cards
-## Dragons
+# Dragons
+## Abyssal Dragon
+### Obsidian Egg
+### Midnight Drake
 ### Abyssal Dragon
-#### Obsidian Egg
-#### Midnight Drake
-#### Abyssal Dragon
-#### Nightmare
+### Nightmare
+
+## Avaricious Dragon
+### Ravenous Egg
+### Usurious Drake
 ### Avaricious Dragon
-#### Ravenous Egg
-#### Usurious Drake
-#### Avaricious Dragon
+
+## Calamitous Dragon
+### Ancient Egg
+### Derelict Drake
 ### Calamitous Dragon
-#### Ancient Egg
-#### Derelict Drake
-#### Calamitous Dragon
-#### Ruined Kingdom
+### Ruined Kingdom
+
+## Divine Dragon
+### Blessed Egg
+### Sacred Drake
 ### Divine Dragon
-#### Blessed Egg
-#### Sacred Drake
-#### Divine Dragon
+
+## Festering Dragon
+### Rotten Egg
+### Noxious Drake
 ### Festering Dragon
-#### Rotten Egg
-#### Noxious Drake
-#### Festering Dragon
+
+## Gargantuan Dragon
+### Enormous Egg
+### Towering Drake
 ### Gargantuan Dragon
-#### Enormous Egg
-#### Towering Drake
-#### Gargantuan Dragon
+
+## Hyper Dragon
+### Restless Egg
+### Dynamic Drake
 ### Hyper Dragon
-#### Restless Egg
-#### Dynamic Drake
-#### Hyper Dragon
+
+## Opulent Dragon
+### Exquisite Egg
+### Glittering Drake
 ### Opulent Dragon
-#### Exquisite Egg
-#### Glittering Drake
-#### Opulent Dragon
+
+## Revenant Dragon
+### Rubbish Egg
+### Detritus Drake
 ### Revenant Dragon
-#### Rubbish Egg
-#### Detritus Drake
-#### Revenant Dragon
+
+## Riposte Dragon
+### Sensitive Egg
+### Clever Drake
 ### Riposte Dragon
-#### Sensitive Egg
-#### Clever Drake
-#### Riposte Dragon
+
+# Cards
 ## Kingdom Cards
 ### Abyssal Scale
 ### Arsonist
@@ -144,6 +154,7 @@ The Recycling mat works like the Trash mat, except that when any Supply pile bec
 ### Worker's Camp
 ### Wyvern
 ### Zealot
+
 ## Ruins
 ### Broken Amulet
 ### Collapsed Bridge
@@ -153,6 +164,7 @@ The Recycling mat works like the Trash mat, except that when any Supply pile bec
 ### Rough Patron
 ### Shipwreck
 ### Slum
+
 ## Mats
 ### Roost mat?
 ### Recycling Mat
