@@ -40,6 +40,7 @@ Draconium has Clandestine cards. When you play any card with a +X Cards instruct
 
 ### Example Scenarios
 * You play a [Village](http://wiki.dominionstrategy.com/index.php/Village) for +1 Card and +2 Actions. With your +1 Card, you draw a Clandestine card. You choose to reveal the Clandestine card and as a result, you do not expend your +1 Card and draw again. Your next card is not a Clandestine card, so the Village is resolved.
+* You play a [Village](http://wiki.dominionstrategy.com/index.php/Village) for +1 Card and +2 Actions. With your +1 Card, you draw a Clandestine card. You choose to reveal the Clandestine card and as a result, you do not expend your +1 Card and draw again. Your next card is also a Clandestine card, so may once again choose to reveal it and draw another card. There is no limit to how many Clandestine cards may be drawn at once.
 * You play a [Village](http://wiki.dominionstrategy.com/index.php/Village) for +1 Card and +2 Actions. With your +1 Card, you draw a Clandestine card. You choose _not_ to reveal the Clandestine card and as a result you do _not_ draw another card and the Village is resolved.
 * You play a [Watchtower](http://wiki.dominionstrategy.com/index.php/Watchtower) and after which you have 4 cards in hand. The first card you draw is a Clandestine card. Because Watchtower instructs to "Draw until you have 6 cards in hand." and does not include "+X Cards", you may _not_ reveal the drawn Clandestine card. You draw one more card to get to 6 in hand and the Watchtower is resolved.
 
