@@ -10,54 +10,50 @@ There are 10 Eggs / Drakes / Dragons, any number of which may be used in a game 
 When including Eggs / Drakes / Dragons in a set:
 * Duchies, Provinces, and Colonies are _locked and unavailable to buy_ until _at least one player_ has grown a Dragon.
 * All players _must_ select an Egg before the game starts. Any number of players may have the same named Egg.
+* Eggs, Drakes, and Dragons do not count towards any special preset or post-game scoring condition. A couple of examples of what this means:
+    * They do not count as part of the Supply for Tax or Obelisk.
+    * They are not counted as a part of your deck when using cards like Gardens. 
+    * They are not counted for or against you when using a Landmark like Museum, Wall, or Wolf’s Den.
 
-You may use whatever means you prefer to assign Eggs, including allowing players to choose aloud. However, it is recommended to use some method of randomization. Here are a few ideas for how to go about Egg assignment:
+## Eggs
+Eggs are the first lifecycle stage for a Dragon. Each Egg has a hatch condition. Once the condition is satisfied (or exceeded), resolve its hatch effect (if it has one noted in its instructions) then exchange it for its respective Drake.
+
+Eggs are double-sided. One side of the Egg describes the hatch condition and any hatch effects. The other side has any special setup instructions (if applicable) as well as the Egg's "evolutionary legend" which looks like this (using the Opulent Dragon as an example):
+
+**Exquisite Egg** ⇝ Glittering Drake ⇝ Opulent Dragon
+
+### Setting Up
+Eggs are placed on each player's Roost mat before the game begins. Beginning from the very first round, players may start investing into an Egg's hatch condition. You may use whatever means you prefer to assign Eggs, including allowing players to choose aloud. However, it is recommended to use some method of randomization. Here are a few ideas for how to go about Egg assignment:
 * Assign each available Egg a number or range, then roll a die or use a digital number randomizer to select an Egg for each player.
 * Put one copy of each available Egg in a stack and have each player close their eyes and select blindly, reshuffling before each player chooses.
 * Have everyone self-select silently by writing their choice down on a small and secret piece of paper, then everyone reveal their choices at the same time.
 
-Eggs, Drakes, and Dragons do not count towards any special preset or post-game scoring condition. A couple of examples of what this means:
-They do not count as part of the Supply for Tax or Obelisk.
-They are not counted as a part of your deck when using cards like Gardens. 
-They are not counted for or against you when using a Landmark like Museum, Wall, or Wolf’s Den.
-
-## Eggs
-Eggs are the first lifecycle stage for a Dragon. Each Egg has a hatch condition. Once the condition is satisfied (or exceeded), resolve its hatch effect (if it has one noted in its instructions) then exchange it for its respective Drake. 
-
-Eggs are double-sided. One side of the Egg describes the hatch condition and any hatch effects. The other side has any special setup instructions (if applicable) as well as the Egg's _evolutionary legend_ which looks like this (using the Opulent Dragon as an example):
-
-**Exquisite Egg** ⇝ Glittering Drake ⇝ Opulent Dragon
-
-Eggs are placed on each player's Roost mat before the game begins. Beginning from the very first round, players may start investing into an Egg's hatch condition.
-
 ## Drakes and Dragons
-Once a player has hatched an Egg into a Drake, they add a new phase to their turn moving forward: the "Dragon phase". The Dragon phase occurs immediately before the Action phase (or the very beginning of a turn) but may extend to other phases based on a specific Drake or Dragon's instructions.
+Drakes are not gained, but rather "hatched" from Eggs. Dragons are not gained either, but rather "grown" from Drakes. Once a player has hatched an Egg into a Drake, they add a new phase to their turn moving forward: the "Dragon phase".
 
-Drakes are not gained, but rather "hatched" from Eggs. Dragons are not gained either, but rather "grown" from Drakes. Drakes and Dragons are also not "played", but rather "dispatched" and "disengaged". Dragons may also be "delayed" by having a "Delay token" placed on them.
+Drakes and Dragons are both double-sided, with one side having dispatch instructions and the other having disengage instructions. The disengaged side also has the Drake / Dragon's evolutionary legend.
 
-The terms "dispatched", "disengaged", and "delayed" refer to the three states of Drakes and Dragons. At any given time, a Drake or Dragon is considered to be in one of these three states. The state of a Drake or Dragon is used in three ways:
-1. It determines how to resolve the next Dragon phase.
-1. It specifies if and how certain cards resolve. A couple of examples include:
-    * If a player plays a Dragoon while their Drake or Dragon is dispatched, they get a bonus effect.
-    * If one player's Dragon is dispatched and another player plays Dragon Slayer, the first player must disengage their Dragon immediately.
-1. It may signify that a persistent effect is active if one is listed on the specific Drake or Dragon's instructions. "While this is dispatched...", "While this is disengaged...", etc.  
+### Drake and Dragon States
+Drakes and Dragons are not "played", but rather "dispatched" and "disengaged". A Drake and Dragon may also be "delayed" by having a "Delay token" placed on it. The terms "dispatched", "disengaged", and "delayed" refer to the three states of Drakes and Dragons. At any given time, a Drake or Dragon is considered to be in one of these three states.
 
-Drakes and Dragons are both double-sided, with one side having dispatch instructions and the other having disengage instructions. The disengaged side also has the Drake / Dragon's evolutionary legend. How to use these instructions is described below.
+* If a Drake or Dragon has a Delay token on it, it is considered _delayed_.
+* If a Drake or Dragon is on the Roost mat and has no Delay token on it, it is considered _disengaged_ regardless of which side is facing up.
+* If a Drake or Dragon is in the play area and has no Delay token on it, it is considered _dispatched_.
 
-When you hatch an Egg, resolve any hatch effects (if applicable), then remove the Egg from your Roost mat and replace it with the Drake listed on the Egg's evolutionary legend. Place the Drake on your Roost mat disengaged side up. This initial placement _is not considered_ a disengagement.
+### The Dragon Phase
+The Dragon phase occurs immediately before the Action phase (or the very beginning of a turn). Resolving a Dragon phase is dependent upon the Drake or Dragon's state and is described below.
 
-Likewise, when you grow a Drake, resolve any grow effects (if applicable), then remove the Drake from your Roost mat and replace it with the Dragon listed on the Drake's evolutionary legend. Place the Dragon on your Roost mat, disengaged side up. This initial placement _is not considered_ a disengagement.
+* When a Drake or Dragon is _disengaged_-side up on its Roost mat, flip it to  _dispatched_-side up and leave it on the Roost mat. This _is not considered_ a dispatch.
+* When a Drake or Dragon is _dispatched_-side up on its Roost mat, dispatch it by removing it from the Roost mat and placing it in the play area (though it is not technically "in play"). The Dragon's instructions are executed at the specified phase(s) over the course of the player's turn. The dispatched Dragon remains in the play area at the end of the current player's turn. While a Drake or Dragon is dispatched in the play area, it is considered dispatched until it has been disengaged.
+* When a Drake or Dragon is _dispatched_-side up in the play area, flip it to _disengaged_-side up and move it to the Roost mat. Any dispatch instructions should be resolved at this time.
+* When a Drake or Dragon is _delayed_ by having a Delay token on it, the Delay token is removed and no further Drake / Dragon events occur this turn.
 
-A player that begins turn in possession of a Drake or Dragon must resolve their Dragon phase before moving on to their Action phase. The way to resolve the Dragon phase is determined by the current state (dispatched, disengaged, or delayed) of a Drake or Dragon and is described below:
-* If i
+## Playing the Game with Eggs / Drakes / Dragons
+From the start of the first round, all players should have an Egg and are free to begin satisfying the Egg's hatch condition where possible. The Egg remains on the Roost mat until the hatch condition is met or exceeded, in which case it is hatched before the end of the current player turn. 
 
-For both Drakes and Dragons, when they are face down at the start of a turn, they are flipped face up. When they are face up at the start of your turn, dispatch them.
+When an Egg hatches, resolve any hatch effects (if applicable), then remove the Egg from the Roost mat and replace it with the Drake listed on the Egg's evolutionary legend. Place the Drake on the Roost mat disengaged side up. This initial placement _is not considered_ a disengagement. Drakes have powerful effects, but they are only dispatched then disengaged once. When a Drake is disengaged, it grows into a Dragon before the end of the current player turn.
 
-Drakes and Dragons are never played, but rather “dispatched”. Once a Drake or Dragon is dispatched, it remains dispatched until it is flipped face down. Drakes or Dragons removed from dispatch have been “disengaged”. A Drake may only be disengaged once, after which it “grows” into a Dragon. Dragons continue to be dispatched and disengaged throughout the rest of the game.
-
-On the same turn that a Drake or Dragon is dispatched, resolve it at the moment specified in the card’s instructions. Most Drakes and Dragons resolve “at the start of your turn”, but some may resolve “at the start of your Buy phase”, “at the end of your Buy phase”, “at the end of your turn”, etc. Drakes and Dragons dispatch on their own accord. When it is time to resolve a Drake or Dragon effect, it is not optional. The only way to hinder a Drake or Dragon is with a Delay token.
-
-
+When Drake grows into a Dragon, resolve any grow effects (if applicable), then remove the Drake from the Roost mat and replace it with the Dragon listed on the Drake's evolutionary legend. Place the Dragon on the Roost mat, disengaged side up. This initial placement _is not considered_ a disengagement. Dragons continue in the dispatch / disengage cycle until the game is over.
 
 ## Delay Tokens
 Each player has one Delay token. It works similarly to the negative effect tokens from Adventures. When a card says to place a Delay token, you place it onto your Drake or Dragon if you have one. If you have no Drake or Dragon, or your Delay token has already been placed, do nothing. When it is time for a player to flip a Drake or Dragon (to dispatch or to disengage it), if their Delay token is placed, they remove the Delay token instead.
